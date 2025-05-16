@@ -1,0 +1,13 @@
+      id  gender  hypertension  heart_disease ever_married      work_type  \
+0  10001  Female             0              0          Yes  Self-employed   
+1  10002    Male             0              1          Yes       children   
+2  10003    Male             1              1          Yes  Self-employed   
+3  10004    Male             0              0           No  Self-employed   
+4  10005  Female             0              0           No       children   
+
+  residence_type  avg_glucose_level   bmi   smoking_status  stroke  
+0          Rural              81.32  18.9     never smoked       0  
+1          Urban              96.78  34.2          Unknown       1  
+2          Rural             218.06  38.2           smokes       1  
+3          Urban              90.31  20.8     never smoked       0  
+4          Rural              81.15  30.4  formerly smoked       0  
